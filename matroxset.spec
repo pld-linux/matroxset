@@ -2,7 +2,7 @@ Summary:	Utility to switch modes of matroxfb framebuffer devices
 Summary(pl):	Narzêdzie do zmiany trybów urz±dzeñ framebuffera matroxfb
 Name:		matroxset
 Version:	0.4
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Graphics
 Source0:	ftp://platan.vc.cvut.cz/pub/linux/matrox-latest/%{name}-%{version}.tar.gz
