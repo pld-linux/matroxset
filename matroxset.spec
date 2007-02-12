@@ -1,5 +1,5 @@
 Summary:	Utility to switch modes of matroxfb framebuffer devices
-Summary(pl):	Narzêdzie do zmiany trybów urz±dzeñ framebuffera matroxfb
+Summary(pl.UTF-8):   NarzÄ™dzie do zmiany trybÃ³w urzÄ…dzeÅ„ framebuffera matroxfb
 Name:		matroxset
 Version:	0.4
 Release:	2
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Utility to switch modes of matroxfb framebuffer devices (switch heads,
 activate TV-Out...).
 
-%description -l pl
-Narzêdzie do zmiany trybów urz±dzeñ framebuffera matroxfb
-(prze³±czania g³owic, w³±czania TV-Out...).
+%description -l pl.UTF-8
+NarzÄ™dzie do zmiany trybÃ³w urzÄ…dzeÅ„ framebuffera matroxfb
+(przeÅ‚Ä…czania gÅ‚owic, wÅ‚Ä…czania TV-Out...).
 
 %prep
 %setup -q
