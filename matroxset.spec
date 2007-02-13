@@ -1,5 +1,5 @@
 Summary:	Utility to switch modes of matroxfb framebuffer devices
-Summary(pl.UTF-8):   Narzędzie do zmiany trybów urządzeń framebuffera matroxfb
+Summary(pl.UTF-8):	Narzędzie do zmiany trybów urządzeń framebuffera matroxfb
 Name:		matroxset
 Version:	0.4
 Release:	2
